@@ -1,0 +1,2 @@
+# Android_Unity_Sdk_Plugins
+Android_Unity_Sdk
